@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaohsiung-tour/static/css/main.7893d957.css",
+    "main.js": "/kaohsiung-tour/static/js/main.470525a2.js",
+    "index.html": "/kaohsiung-tour/index.html",
+    "main.7893d957.css.map": "/kaohsiung-tour/static/css/main.7893d957.css.map",
+    "main.470525a2.js.map": "/kaohsiung-tour/static/js/main.470525a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7893d957.css",
+    "static/js/main.470525a2.js"
+  ]
+}
